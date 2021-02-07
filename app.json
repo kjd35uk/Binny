@@ -1,0 +1,12 @@
+{
+  "name": "Binny",
+  "displayName": "Binny",
+  "expo": {
+    "name": "Binny",
+    "slug": "Binny",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
